@@ -33,8 +33,3 @@ SELECT MAX(num_books_read) FROM family_members;
 -- use aggregate functions such as COUNT, SUM, AVG, MAX, and MIN with the GROUP BY clause
 -- return the tallest height for each species
 SELECT MAX(height_cm), species FROM friends_of_pickles GROUP BY species
-
---  Nested queries
--- return the family members that have the highest num_books_read
-
-
