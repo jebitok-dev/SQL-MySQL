@@ -68,7 +68,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Inspired by [Mosh Hamedani MySQL Tutorial for Beginners](https://www.youtube.com/watch?v=7S_tz1z_5bA&ab_channel=ProgrammingwithMosh)
+inspired by [Microverse](microverse.org)
 
 ## 📝 License
 
