@@ -3,6 +3,9 @@
 # SQL-MySQL
 
 - Learning SQL with mySQL for databases modules and solving the SQL Zoo quizzes.
+```
+solved the SQL Zoo questions on [sqlzoo](sqlzoo.net):- SELECT/SUM & COUNT/ JOIN/ TABLES/ SELF-JOIN/NULL/NESTED
+```
 
 > Learning how to use SQL(Structured Query Language) to retrieve, insert, update & delete data in database by covering Tables, Relationship, Joins, SubQueries, & Regular Expressions.
 
