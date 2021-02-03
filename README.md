@@ -2,7 +2,7 @@
 
 # SQL-MySQL
 
-- Learning SQL with mySQL for databases modules
+- Learning SQL with mySQL for databases modules and solving the SQL Zoo quizzes.
 
 > Learning how to use SQL(Structured Query Language) to retrieve, insert, update & delete data in database by covering Tables, Relationship, Joins, SubQueries, & Regular Expressions.
 
@@ -10,8 +10,8 @@
 
 ### How to Set-Up
 
-- Install MySQL server
-- Install MySQL workbench
+<!-- - Install MySQL server
+- Install MySQL workbench -->
 
 - Set-Up the project locally
 
@@ -68,7 +68,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Inspired by [Mosh Hamedani MySQL Tutorial for Beginners](https://www.youtube.com/watch?v=7S_tz1z_5bA&ab_channel=ProgrammingwithMosh)
+- Inspired by [Microverse](microverse.org) & [sqlzoo](sqlzoo.net)
 
 ## 📝 License
 
